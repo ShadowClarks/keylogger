@@ -99,8 +99,7 @@ The script will detect it and exit gracefully.
 
 **Akshat Soni (ShadowClarks)**  
 Cybersecurity enthusiast | Python developer  
-GitHub: [your-link]  
-LinkedIn: [your-link]  
+LinkedIn: https://www.linkedin.com/in/akshat-soni-8a98082b5/
 
 ---
 
