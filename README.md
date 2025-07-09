@@ -1,5 +1,10 @@
 # 🔐 Encrypted Keylogger PoC (Educational Use Only)
 
+![License](https://img.shields.io/github/license/ShadowClarks/keylogger)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Issues](https://img.shields.io/github/issues/ShadowClarks/keylogger)
+![Stars](https://img.shields.io/github/stars/ShadowClarks/keylogger?style=social)
+
 This is a **Proof of Concept (PoC)** keylogger built with Python for **educational and ethical** purposes. It captures keystrokes, encrypts them using `cryptography`, and simulates exfiltration to a local server. The goal is to demonstrate secure logging, encryption, and basic persistence techniques.
 
 ---
